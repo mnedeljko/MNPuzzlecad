@@ -1,4 +1,4 @@
-include <puzzlecad2.scad>
+include <puzzlecad.scad>
 
 box_puzzle_scale = 15;
 box_puzzle_border = 6;
